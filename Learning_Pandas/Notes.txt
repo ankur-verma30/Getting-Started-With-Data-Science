@@ -1,0 +1,5 @@
+Process of cleaning messy data is called data munging and data wranglingz
+
+What is Dataframe
+Dataframe is a main object in Pandas. It is used to represent data with rows and columns(tabular or excel spreadsheet like data)
+
